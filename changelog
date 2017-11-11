@@ -1,0 +1,17 @@
+commit 994b55b25d3219ecf46f97c4210073f7ff192f01 (HEAD, tag: v1.0, origin/master, origin/HEAD, master)
+Author: Jose Perez <sinfallas@users.noreply.github.com>
+Date:   Wed Sep 13 23:00:39 2017 -0400
+
+    Update README.md
+
+commit 96026ccf1f0f1c0edce8c41c2bd8ffd029dee26b
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Sep 13 22:56:58 2017 -0400
+
+    * se sube el arte actual de la distribucion
+
+commit 9d28bec7bb9ff4b47e5f6e498680c280e4445071
+Author: Jose Perez <sinfallas@users.noreply.github.com>
+Date:   Wed Sep 13 22:45:19 2017 -0400
+
+    Initial commit
